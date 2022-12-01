@@ -1,5 +1,11 @@
-.text-platzi {
-    color: #97c93e !important;
+.text-platzi:hover { 
+    color: #82ad36 !important; 
+}
+.btn-success { 
+    background-color: #97c93e !important; 
+} 
+.btn-success:hover { 
+    background-color: #89ad36 !important; 
 }
 
 #header img{
@@ -24,6 +30,15 @@
     background-color: rgba(0, 0, 0, 0.5);
     color: white;
     z-index: 1;
+}
+
+#place-time {
+    background-color: #343a40;
+    color: white;
+}
+
+#place-time img {
+    max-width: 100%;
 }
 
 #footer{
